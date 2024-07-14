@@ -6,16 +6,16 @@ Dynamic routing algorithms have been extensively studied, with traditional metho
 ### System Architecture
 The architecture consists of several key components:
 
-**Network Environment:** Simulates the network topology and provides state information.
-**DQN Agent:** Interacts with the network environment, making decisions based on the current state.
-**Deep Q-Network (DQN):** A neural network used to approximate the Q-values for state-action pairs.
-**Replay Memory:** Stores experiences for experience replay, stabilizing training.
+**Network Environment:** Simulates the network topology and provides state information.<br/>
+**DQN Agent:** Interacts with the network environment, making decisions based on the current state.<br/>
+**Deep Q-Network (DQN):** A neural network used to approximate the Q-values for state-action pairs.<br/>
+**Replay Memory:** Stores experiences for experience replay, stabilizing training.<br/>
 ### Tools/APIs Used
-**Python:** The main programming language used.
-**Keras:** For building the Deep Q-Network.
-**NumPy:** For numerical computations.
-**Matplotlib:** For plotting and visualization.
-**NetworkX:** For network topology creation and manipulation.
+**Python:** The main programming language used.<br/>
+**Keras:** For building the Deep Q-Network.<br/>
+**NumPy:** For numerical computations.<br/>
+**Matplotlib:** For plotting and visualization.<br/>
+**NetworkX:** For network topology creation and manipulation.<br/>
 
 How to Run
 Clone the repository:
