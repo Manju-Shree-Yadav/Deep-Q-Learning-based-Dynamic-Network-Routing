@@ -16,16 +16,10 @@ The architecture consists of several key components:
 **NumPy:** For numerical computations.<br/>
 **Matplotlib:** For plotting and visualization.<br/>
 **NetworkX:** For network topology creation and manipulation.<br/>
+### Results
+The DQN agent successfully learns to optimize routing paths, reducing latency and packet loss.<br/>
+The system adapts to network changes dynamically, finding alternative paths when the optimal path is down.<br/>
 
-How to Run
-Clone the repository:
+### Contributors
+Manju Shree Yadav - manjushreeyd.cs23@rvce.edu.in
 
-sh
-Copy code
-git clone https://github.com/your_username/dql-network-routing.git
-cd dql-network-routing
-Install dependencies:
-
-sh
-Copy code
-pip install -r requirements.txt
